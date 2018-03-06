@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CASINOFRAMES GAMES FRENCH",
-    "currentPage": "wishingcup.html",
+    "currentPage": "catsino.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,31 +40,6 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "page1.html": {
-      "settings": {
-        "title": "catsino 872",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {},
-          "_name": "video3",
-          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=872&lang=FR\"></iframe>\n\n",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_cid": "qLwTgSkLv0",
-          "_anchor": "video3-5",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        }
-      ]
-    },
     "wishingcup.html": {
       "settings": {
         "main": true,
@@ -90,7 +65,32 @@
         }
       ]
     },
-    "riseof poseidon.html": {
+    "misfittoyland.html": {
+      "settings": {
+        "title": "misfittoyland 1154",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video3",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=1154&lang=FR\"></iframe>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "qLwTEtrh7J",
+          "_anchor": "video3-7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "riseofposeidon.html": {
       "settings": {
         "title": "poseidon 994",
         "meta_descr": "",
@@ -115,24 +115,24 @@
         }
       ]
     },
-    "misfittoyland.html": {
+    "catsino.html": {
       "settings": {
-        "title": "misfittoyland 1154",
+        "title": "catsino 872",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 2
       },
       "components": [
         {
           "_styles": {},
           "_name": "video3",
-          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=1154&lang=FR\"></iframe>\n\n",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=872&lang=FR\"></iframe>\n\n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_cid": "qLwTEtrh7J",
-          "_anchor": "video3-7",
+          "_cid": "qLwTgSkLv0",
+          "_anchor": "video3-5",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
