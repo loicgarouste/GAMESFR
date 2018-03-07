@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CASINOFRAMES GAMES FRENCH",
-    "currentPage": "catsino.html",
+    "currentPage": "champselysees.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -29,7 +29,7 @@
       }
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 9,
+    "uniqCompNum": 13,
     "versionPublish": "4.6.2",
     "favicon": "",
     "noImageResize": "true",
@@ -72,7 +72,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -97,7 +97,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -122,7 +122,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -137,6 +137,81 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        }
+      ]
+    },
+    "fivetimeswins.html": {
+      "settings": {
+        "title": "fivetimeswins 866",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video3",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=866&lang=FR\"></iframe>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "qLBwYUWmu4",
+          "_anchor": "video3-9",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "goldbricks.html": {
+      "settings": {
+        "title": "goldbricks 1121",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video3",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=866&lang=FR\"></iframe>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "qLBxCV0nxr",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "video3-a"
+        }
+      ]
+    },
+    "champselysees.html": {
+      "settings": {
+        "title": "champselysees 886",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video3",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=866&lang=FR\"></iframe>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "qLBxNgYtpv",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "video3-b"
         }
       ]
     }
