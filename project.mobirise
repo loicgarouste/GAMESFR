@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CASINOFRAMES GAMES FRENCH",
-    "currentPage": "champselysees.html",
+    "currentPage": "wishingcup.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -182,11 +182,11 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "qLBxCV0nxr",
+          "_anchor": "video3-a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video3-a"
+          "_params": {}
         }
       ]
     },
@@ -207,11 +207,11 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "qLBxNgYtpv",
+          "_anchor": "video3-b",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video3-b"
+          "_params": {}
         }
       ]
     }
