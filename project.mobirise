@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CASINOFRAMES GAMES FRENCH",
-    "currentPage": "wishingcup.html",
+    "currentPage": "diamondcherries.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -29,7 +29,7 @@
       }
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 13,
+    "uniqCompNum": 17,
     "versionPublish": "4.6.2",
     "favicon": "",
     "noImageResize": "true",
@@ -208,6 +208,106 @@
           "_JSplaceholders": [],
           "_cid": "qLBxNgYtpv",
           "_anchor": "video3-b",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "midastouch.html": {
+      "settings": {
+        "title": "midastouch 1114",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video3",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=1114&lang=FR\"></iframe>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "qLI1dgjlTF",
+          "_anchor": "video3-d",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "alienspinvasion.html": {
+      "settings": {
+        "title": "alienspinvasion 1013",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video3",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=1013&lang=FR\"></iframe>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "qLI1vMONh6",
+          "_anchor": "video3-e",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "tensuns.html": {
+      "settings": {
+        "title": "tensuns 1107",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video3",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=1107&lang=FR\"></iframe>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "qLI1QULbiC",
+          "_anchor": "video3-f",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "diamondcherries.html": {
+      "settings": {
+        "title": "diamoncherries 863",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 10
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video3",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=863&lang=FR\"></iframe>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "qLI1TVZ6mW",
+          "_anchor": "video3-g",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
