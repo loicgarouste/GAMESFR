@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CASINOFRAMES GAMES FRENCH",
-    "currentPage": "scaryrich3.html",
+    "currentPage": "partyparrot.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -29,7 +29,7 @@
       }
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.6.2",
     "favicon": "",
     "noImageResize": "true",
@@ -408,6 +408,31 @@
           "_JSplaceholders": [],
           "_cid": "qLOg8Hrgou",
           "_anchor": "video3-k",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "partyparrot.html": {
+      "settings": {
+        "title": "party parrot 1164",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 15
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video3",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&game_id=1164\"></iframe>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "qMn6iLXdof",
+          "_anchor": "video3-l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
